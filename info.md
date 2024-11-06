@@ -1,13 +1,13 @@
 # CPU-Monitoring-and-Visualization-Tool-for-Linux
 
-Website : https://github.com/Payalpriya5/CPU-Monitoring-and-Visualization-Tool-for-Linux
+Website :https://github.com/Preety8087/CPU-Monitoring-and-Visualization-Tool-for-Linux
 
     Its very easy way to monitor the cpu and memory usage in the Linux operating system.
     And the best thing is the graphical representation of the cpu and memory usage.
     
 
 # Website Info
-Designed by <a href="https://https://github.com/Payalpriya5">Payal Priyadarsini</a>
+Designed by <a href="https://https://github.com/Preety8087">Preety</a>
 
 Technology Used :
 * Python
